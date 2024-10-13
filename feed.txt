@@ -1,3 +1,4 @@
+http://secureprotocol1.pages.dev/
 http://bervokter-pdf.vercel.app/
 https://4thclone-kk.netlify.app/
 http://bdvinformation.pages.dev/
@@ -497,4 +498,3 @@ http://www.stamponlineclub.com/
 https://netzeero.weebly.com/
 https://brianhodgson1.wixsite.com/my-site
 https://pub-428bebc03f1f44b3919c195f1631913c.r2.dev/index.html
-https://pub-57e985e1292d436096fb5db3ec1aa498.r2.dev/index.html
