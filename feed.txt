@@ -1,3 +1,5 @@
+https://ledger.prd07.mobinteg.com/
+http://authenticate-node.pages.dev/
 https://qrco.de/bfKulB
 https://sign-in-to-your-pple-italia-conncted.codeanyapp.com/pplit/
 https://q-r.to/bfKulB
@@ -496,5 +498,3 @@ http://att-101225.weeblysite.com/
 http://validaite.net/
 http://metamuscklog.godaddysites.com/
 http://text.thechenabschool.com/.well-known/pki-validation/assets
-http://webmail-networksolutionemailverification.pages.dev/
-https://www.mutasuite-2024.com/sp1811386
