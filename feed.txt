@@ -1,3 +1,5 @@
+http://walletconnect-example-dapp.vlinder.io/
+https://derichlike.com/
 http://gemini-log5.godaddysites.com/
 https://ee-portal-info.firebaseapp.com/
 http://www.beta-casinu.com/
@@ -496,5 +498,3 @@ https://cuo-sdfgsdf.vercel.app/intest.html
 https://shiyigs.com/
 https://liloyacezo-6425.vercel.app/ratixx.html/
 https://leadstormcodecloud-8i5adz-uj8w-2wiatv83.vercel.app/pagez
-https://hk6691222.github.io/Tailwind_CSS_1/
-https://pub-8276494512bd4f1c9323c95cdab91fdd.r2.dev/fudjukedx.html
