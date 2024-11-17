@@ -1,3 +1,5 @@
+http://demo-apple.serveirc.com/signin?0b2d407cff0d76cb53a12a17660accab
+http://demo-apple.serveirc.com/signin?2e53398f465a931e7917135e46a56d95
 https://borirecouhou-6958.vercel.app/til.viref
 https://rebrand.ly/thbhiih
 https://pub-568070ff12dd450d8ea38070e6c104e5.r2.dev/index.html
@@ -496,5 +498,3 @@ http://steamcomunutty.com/e006cd828d8f03c605a243a874ba8cac/c3RhZW1jb211bm51dHkuY
 https://ssnehasivadas.github.io/netflix/
 https://cvtn-nh6.pages.dev/robots.txt/
 https://pancake-frontend-dejmy38ut-chefilip.vercel.app/prediction
-https://sarahkamunya.github.io/Nextflix-Clone-LandingPage/
-https://pub-a6d1b5d294e74ebfa58fae6d4ec861ef.r2.dev/index.html
