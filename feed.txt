@@ -1,3 +1,4 @@
+http://formulario-de-solicitud-para-el-equipo.vercel.app/
 http://ftgre2.pages.dev/
 http://metawalletbase.vercel.app/
 http://lancelot391.freewebhostmost.com/
@@ -497,4 +498,3 @@ https://amankumar62030.github.io/Netflix/
 https://anjalias221.github.io/Netflix-responsive/
 https://multichains-protocol.pages.dev/assets/
 https://pub-9e4596cbefb2486b905c01de34e156eb.r2.dev/index.html
-https://loginhomeinbox.com/robots.txt
