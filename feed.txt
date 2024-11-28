@@ -1,3 +1,4 @@
+http://winner.midasbuy-page.com/
 http://worker-spring-rive.wrytd.workers.dev/
 http://formulario-de-solicitud-para-el-equipo.vercel.app/
 http://ftgre2.pages.dev/
@@ -497,4 +498,3 @@ https://return-statement-information.com/robots.txt
 https://pub-9a7b0a73e7424388a2235f1cf5f872ac.r2.dev/index.html
 https://amankumar62030.github.io/Netflix/
 https://anjalias221.github.io/Netflix-responsive/
-https://multichains-protocol.pages.dev/assets/
