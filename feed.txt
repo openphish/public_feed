@@ -1,3 +1,4 @@
+http://worker-silent-bird.wrytd.workers.dev/
 http://ed-vless.iraan321.workers.dev/
 http://publicmanageraccountpages.github.io/
 http://www.ttok-shop.com/
@@ -497,4 +498,3 @@ http://or-obaidullah.github.io/facebook-login-page/
 http://basil0303.github.io/newnetflix/
 http://webmailalertservic.wixsite.com/my-site/
 http://sites.google.com/view/paypal-loginn/
-http://dhanushr24.github.io/clone-Netflix/SignIn.html
