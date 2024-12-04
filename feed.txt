@@ -1,3 +1,5 @@
+https://blockdag-networksever.pages.dev/
+https://ipfs.io/ipfs/bafkreihi63pgeco7bkugbeuo6pxnuafhdhqdnrlkxlxagufu3y2i74yoeu
 https://gateway.ipfs.io/ipfs/bafkreiahe3xgqggygob7zthevtasczbhbu6myoo6ur2wzhutd3r3gghpo4
 https://gateway.ipfs.io/ipfs/bafkreibbx6rmzklfe7xwpgkfudkwdd4u4c3pqhxxf7owg7ivls5tvhrtda
 https://gateway.ipfs.io/ipfs/bafkreibiawwgeto3k5upmscpxbfzshq7zx5xhif52huwcshzf5ucqaslgi
@@ -496,5 +498,3 @@ https://talktalk-101154.weeblysite.com/
 https://talktalk-101276.weeblysite.com/
 https://talktalk-100207.weeblysite.com/
 https://talktalk-101469.square.site/
-http://dev-0014021995323526.pantheonsite.io/
-http://dev-ijl07779720700.pantheonsite.io/
