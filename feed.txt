@@ -1,3 +1,4 @@
+http://worker-dark-queen-529e.servers5555599.workers.dev/
 http://support-trezaer-io.webflow.io/
 https://attcom-103046.weeblysite.com/
 http://auth---m--sso----trezor--web.webflow.io/
@@ -497,4 +498,3 @@ https://bafybeibml5jr24naaptk53bmjhrt6oghfz7nbau5ie7nqsdzm7ofhwxvzi.ipfs.dweb.li
 https://phraseseeds.freewebhostmost.com/Metamask/wallet.php
 https://nidheesh-scaria.github.io/netflixog
 https://wallet-coenbase.gitbook.io/us
-https://login.fovifeg944.workers.dev/redirect
