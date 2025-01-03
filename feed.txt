@@ -1,3 +1,4 @@
+http://v2.gaucnet.workers.dev/
 http://telegram-plus.github.io/
 https://lkjtyu.weebly.com/
 https://pub-f19dcbde929d4ae2ad38bf66a35a560e.r2.dev/index.html
@@ -497,4 +498,3 @@ http://home-103702.weeblysite.com/
 http://attmailsecuredonline.weebly.com/
 https://aouth-trezorlogin.webflow.io/
 http://spotify-ui-clone-537a33.netlify.app/
-http://shaw-105019.weeblysite.com/
