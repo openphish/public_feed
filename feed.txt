@@ -1,3 +1,4 @@
+http://ipfs.io/ipfs/bafkreian3dx2jp63qhetz5mjtmgvoxdlwj4mn5tsjxsngzx56zhxcx3yvq
 http://ipfs.io/ipfs/bafkreihvxgb5h34ibedtppypx2hv652knx26kqiz4m7ctszj7yrxpeursi
 http://ipfs.io/ipfs/bafkreigrdfwkuv2ukz75icm52wvsflinwshtwwva4jngh3xxs463xpoptm
 http://ipfs.io/ipfs/bafkreifx6tceb2gnxtwe46ueauoxgiiymgzjpz3e2zmequlzra42znpjfi
@@ -497,4 +498,3 @@ http://ipfs.io/ipfs/bafkreignk37iuf5sr3k5cnnv6ctpuevshozbm6hrqnojia5mou7qiub75u
 http://ledgertools.pages.dev/
 https://www.dfcxsd.xyz/
 http://requirements-x-answers.com/
-https://tzgjhktdcy.cfolks.pl/fxau/login/
