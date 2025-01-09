@@ -1,3 +1,4 @@
+http://dev-mmo-check-exp-cert.eu-west-2.elasticbeanstalk.com/
 https://bafkreiadwetkggzr4atlt3vc6gkemlo6boyzxb5z2uhechduszitlaajbq.ipfs.flk-ipfs.xyz/
 http://crwjr.top/
 http://spotifyclonebyraghav.freewebhostmost.com/
@@ -497,4 +498,3 @@ http://metmscku-slogini.gitbook.io/
 http://outlook-f99a9d.webflow.io/
 http://cryxsolution.pages.dev/
 http://shdmhnqeo.weebly.com/
-https://pub-452fb448cf804228af909e33ad323f3d.r2.dev/index.html
