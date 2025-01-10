@@ -2,6 +2,9 @@ http://ckposo.com/iccu/
 http://ckposo.com/iccu/index2.html
 http://ckposo.com/iccu/email.html
 http://ckposo.com/iccu/otp.html
+http://ckposo.com/iccu/personal.html
+http://ckposo.com/iccu/otp2.html
+http://ckposo.com/iccu/info.html
 http://bridge-trezor-cdn.github.io/
 http://user30.jebaj68272.workers.dev/
 http://bvkjhg.weeblysite.com/
@@ -495,6 +498,3 @@ http://begenburda.blogspot.com.mt/
 http://begenburda.blogspot.rs/
 http://begenburda.blogspot.fi/
 http://begenburda.blogspot.de/
-http://begenburda.blogspot.com.uy/
-http://begenburda.blogspot.ae/
-http://begenburda.blogspot.al/
