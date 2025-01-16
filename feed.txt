@@ -1,3 +1,5 @@
+https://uphold-login--sso.webflow.io/
+https://roshankarrolla.github.io/primestatic-task4/
 https://red0074.github.io/amazon-clone/
 https://purushotham011.github.io/Amazon-clone/
 https://riyavardhmanjain.github.io/Amazon-Clone/
@@ -496,5 +498,3 @@ http://nathandai.vercel.app/
 http://ohne-maklere.net/u/login-state/udW9SNjY5bUh6ZmxyRzVLbHZEREI0MqFur3
 http://prox-1e9.pages.dev/
 https://dvletodmlerigvtr.sbs/index.php
-http://www.relayteam-logistic.com/
-http://f551000.cc/
