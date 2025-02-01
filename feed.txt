@@ -1,3 +1,4 @@
+http://pinnate-soapy-cornflower-ljkvhfcgxf.glitch.me/
 http://login-microsoft-secure.vercel.app/
 http://dapp-starter-g3by6mqqf-dung-huynh-duc-kakas-projects.vercel.app/
 http://logiusgemini-us.godaddysites.com/
@@ -497,4 +498,3 @@ https://mxktggmt.wiki/
 https://by-exchange.com/
 https://desktop--sso-cdn-ledgr-live.webflow.io/
 https://amaechig.github.io/Static-Responsive-Facebook-sign-up-Login-Page-with-boostrap
-https://submit-form-jet.vercel.app/
