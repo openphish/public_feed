@@ -1,3 +1,9 @@
+https://login-robinhood-support.webflow.io/
+https://secure--sso-coinbasepro-sso--cdn.webflow.io/
+https://auth--sso--uphold--y--cdn.webflow.io/
+https://help--ext-coinbasehelp-v--auth.webflow.io/
+https://secure--webs--coinbasepro--cdn--authn.webflow.io/
+https://sso--en-us--uphold-com-cdn--y--auth.webflow.io/
 https://sso-eng--coinbase--cdn-x--auth.webflow.io/
 https://portal-ndaxio-app-cdn-auth.webflow.io/
 https://helps-coinproo--learn--teachable.webflow.io/
@@ -492,9 +498,3 @@ https://opportunity-for-active-creator.vercel.app/validation.html
 http://official-team-verified-form-one-service-ten.vercel.app/validation.html
 https://get-verified-badge-free-subscripation.vercel.app/validation.html
 https://portal--eng-ndax--cdn-auth.webflow.io/
-http://official-for-verification-blue-tick-service-apply.vercel.app/validation.html
-http://get-free-verified-official-badge.vercel.app/validation.html
-http://verifed-your-form-submission.vercel.app/
-http://vkontakre.github.io/
-https://tiktokshopa.com/
-http://telegroom-imi.icu/
