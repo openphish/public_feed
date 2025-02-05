@@ -1,3 +1,7 @@
+https://stemcommunuity.com/glft/19121
+https://nav--sso--coinbasepro--x---cdn.webflow.io/
+https://en--web--coinbasepro--w--auth---sso.webflow.io/
+https://program-star-ledegr-cdn.webflow.io/
 https://login-robinhood-support.webflow.io/
 https://secure--sso-coinbasepro-sso--cdn.webflow.io/
 https://auth--sso--uphold--y--cdn.webflow.io/
@@ -494,7 +498,3 @@ https://submit-request-get-verified.vercel.app/help.html
 https://congratulation-get-your-blue-tick.vercel.app/request.html
 https://attvalidationssync.weebly.com/
 http://official-free-request-blue-fanpage-application.vercel.app/validation.html
-https://opportunity-for-active-creator.vercel.app/validation.html
-http://official-team-verified-form-one-service-ten.vercel.app/validation.html
-https://get-verified-badge-free-subscripation.vercel.app/validation.html
-https://portal--eng-ndax--cdn-auth.webflow.io/
