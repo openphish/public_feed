@@ -1,3 +1,6 @@
+https://sso-eng--coinbase--cdn-x--auth.webflow.io/
+https://portal-ndaxio-app-cdn-auth.webflow.io/
+https://helps-coinproo--learn--teachable.webflow.io/
 https://eng--secure--coinbasepro-cdn--wn--auths.webflow.io/
 https://portal--en--ndax-auth--cdn.webflow.io/
 https://portal-sso-ndaxio-web-s--cdn.webflow.io/
@@ -495,6 +498,3 @@ http://verifed-your-form-submission.vercel.app/
 http://vkontakre.github.io/
 https://tiktokshopa.com/
 http://telegroom-imi.icu/
-https://pennpaper.co.uk/service/fr/
-http://coco.giveawayus-tesla.com/nobody@nodomain.com
-http://graduate-work-app-instagram.vercel.app/
