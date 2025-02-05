@@ -1,3 +1,4 @@
+http://suave-juniper-cell-openthedoorforme.glitch.me/
 https://pub-6e13753da5094bd896e30bfb7438c663.r2.dev/index.html
 https://rakutenss.com/
 https://sso-en-coinbasepro--cdn-x--auth.webflow.io/
@@ -497,4 +498,3 @@ https://telegram-wk.com/login
 https://pub-7aef0558769d4eda8248efdaf76aa6a1.r2.dev/index.html
 https://pub-7de030c98a6740c8991a8d1291b6513e.r2.dev/index.html
 https://maseers.com/assets/saved_resource.php?SERVID=Service_Login_&_Authentication=10d0fcd28bff5298e06939dbb15554abc8d7c9ff
-https://maseers.com/access.php?websrc=e17ea285ad581008aac6b89b49ab879e&dispatched=54&id=5556100554&SERVID=Service_Login_&_Authentication=81aa70a911adf6bcb3f24387400ededa4407a720
