@@ -1,3 +1,4 @@
+http://hr.cuassistance.org/login/login.php
 https://portal-apps--ndaxion-cdn--auth.webflow.io/
 https://eng-sso-treezor-io-cdn-cdn.webflow.io/
 https://portal-sso-ndax-nav--cdnv--autth.webflow.io/
@@ -497,4 +498,3 @@ http://metemask-r-wallet.webflow.io/
 http://www-chase.nivasainfra.com/
 http://alamstech.net/tlc/verified/data/610978949/bWVnYW5Ad2FiYW5rZXJzLmNvbQ==
 https://locateidl.com.tr/e2gaB/
-https://pub-75277cabfaff494ba394c08054aea385.r2.dev/AT&TYA.html
