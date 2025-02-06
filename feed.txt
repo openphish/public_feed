@@ -1,3 +1,4 @@
+http://microsoft.infosynergie.dev/
 https://secure----robinhood--com-cdn-en--autth.webflow.io/
 https://sso-robinhood-r--web.webflow.io/
 https://commerz-sicherheitsportal.com/
@@ -497,4 +498,3 @@ http://www.g2das.com/everyday/secorcares.html
 http://propertyjob.ru/
 https://cloud-service-care.com/render-template/?csu=YGPHzzPa&status_id=n
 https://thdexsaq.pages.dev/
-http://aysenuryuksel.github.io/Netflix-clone/
