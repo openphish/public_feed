@@ -1,3 +1,4 @@
+http://worker-hk.simbacloud.workers.dev/
 http://airbnb-clone-nine-eosin.vercel.app/
 http://uphollding-logiezen.godaddysites.com/
 http://my-ee-billing.web.app/
@@ -497,4 +498,3 @@ https://bafkreiblml4hwtu6psccocfcd5wlbyngcay4jwvz6yfnjuo4llpw7clsoq.ipfs.flk-ipf
 https://rhinestone-clammy-dumpling.glitch.me/
 https://shaw-104534.weeblysite.com/
 http://sso----ndaax-cdn----authh.webflow.io/
-http://sso----cdn-ndax-serv-auths.webflow.io/
