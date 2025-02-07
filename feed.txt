@@ -1,3 +1,5 @@
+https://m-uphold-com-cdn-auth.webflow.io/
+https://auth--docs--official-ledgerus.webflow.io/
 https://livess-ledgesrwallet.webflow.io/
 https://support-ledgerlivdownload.webflow.io/
 https://trezr-docs--cdn.webflow.io/
@@ -496,5 +498,3 @@ http://marclaylucie.wixsite.com/my-swisscom-1
 https://ledger-en-app.webflow.io/
 https://auth-startt-trezorr.webflow.io/
 https://auth-robinhood-safe.webflow.io/
-https://web-trezobridgee.webflow.io/
-https://help--trezr-sso-wlts.webflow.io/
