@@ -1,3 +1,5 @@
+https://web-help-ndax.webflow.io/
+https://secure-web-ndaxc.webflow.io/
 http://wc.xifeqjdqjg.workers.dev/
 https://lledger-doc-strat-cdn.webflow.io/
 https://app-so--coinbasepro--cdn--auth.webflow.io/
@@ -496,5 +498,3 @@ https://ledgerapp-live-sso.webflow.io/
 https://ledwegerlive-loguin.webflow.io/
 http://student-finance-auth.firebaseapp.com/
 https://auth--tezorhelps-logie.webflow.io/
-https://leedgar-livvlogin.webflow.io/
-https://exodus-web3-auth-login.webflow.io/
