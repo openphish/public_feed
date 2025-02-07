@@ -1,3 +1,5 @@
+https://sso--login--ndax.webflow.io/
+https://suppot-doc-trezor-start.webflow.io/
 https://web-help-ndax.webflow.io/
 https://secure-web-ndaxc.webflow.io/
 http://wc.xifeqjdqjg.workers.dev/
@@ -496,5 +498,3 @@ https://seo-secure-robinhood-auth.webflow.io/
 https://help-ledger-livedesktop.webflow.io/
 https://ledgerapp-live-sso.webflow.io/
 https://ledwegerlive-loguin.webflow.io/
-http://student-finance-auth.firebaseapp.com/
-https://auth--tezorhelps-logie.webflow.io/
