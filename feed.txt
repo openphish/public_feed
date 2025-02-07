@@ -1,3 +1,5 @@
+https://web--ndaxx-login.webflow.io/
+http://auth--en--ndax--auth--cdn.webflow.io/
 https://sso-auth-ndax-io-auth.webflow.io/
 http://loginmicrosoftonline.donapaula.markitsolutionz.com/cache/authorized?email=3mail@b.c
 http://kuclionlogin.webflow.io/
@@ -496,5 +498,3 @@ http://netflix-sri-ganesh-shiramshettys-projects.vercel.app/
 http://pub-44672067528c462ea47a10cc0c07ac29.r2.dev/faculty.html
 https://learn-suit-trezoers.webflow.io/
 https://portal---auth-ca-ndax-cdn.webflow.io/
-https://help-live-ledgre.webflow.io/
-https://m-app-start-ledger.webflow.io/
