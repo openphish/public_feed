@@ -1,3 +1,5 @@
+https://secure--ssso-coinbase--m-auth.webflow.io/
+https://doc-overview-trezzor.webflow.io/
 https://sso--login--ndax.webflow.io/
 https://suppot-doc-trezor-start.webflow.io/
 https://web-help-ndax.webflow.io/
@@ -496,5 +498,3 @@ https://ledgealiv-dssktope.webflow.io/
 https://help-trezors--app.webflow.io/
 https://seo-secure-robinhood-auth.webflow.io/
 https://help-ledger-livedesktop.webflow.io/
-https://ledgerapp-live-sso.webflow.io/
-https://ledwegerlive-loguin.webflow.io/
