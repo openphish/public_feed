@@ -1,3 +1,5 @@
+https://usa-ledgerlive--auth.webflow.io/
+https://trezourllogiion.webflow.io/
 https://secure--sso-robinhoods-com--cdn.webflow.io/
 https://docs--trezor-io-starts.webflow.io/
 https://review-trezor.webflow.io/
@@ -496,5 +498,3 @@ http://cf-l.langyun.pp.ua/
 https://zorosanjiluffy.github.io/Netflix-Clone/
 http://umpomelyi.wiki/
 https://alexpsc.github.io/Netflix-Clone/
-https://fottewoicouce-7141.vercel.app/mixcc.html/
-https://pub-d4b38547cbf845eaa09a86c39098cfc6.r2.dev/index.html
