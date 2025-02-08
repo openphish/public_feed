@@ -1,3 +1,9 @@
+https://help-ledgrcdn.webflow.io/
+https://io--trezr-us-en-cdn.webflow.io/
+https://docs-suite-trizor-io-cdn.webflow.io/
+https://en-ledgerloggin-docs.webflow.io/
+https://ledgeer-s-apps.webflow.io/
+https://sso---support-ledgre.webflow.io/
 https://docs-bridge-trizr--cdn.webflow.io/
 https://terzorsuitewwallet.webflow.io/
 https://suiitee--trrexuur-io.webflow.io/
@@ -492,9 +498,3 @@ https://login-sso-ledgere.webflow.io/
 https://crypto-suport-comlogin.webflow.io/
 https://docs-ledgxr-coms.webflow.io/
 https://metamaskchromeextension-error.gitbook.io/
-https://desk-ndaax-authh.webflow.io/
-https://ndaxloggin-console.webflow.io/
-https://my-account-ndax-login.webflow.io/
-https://kuucoicclogg.webflow.io/
-https://help-hub---desktop--ledgwr.webflow.io/
-https://app-sso--ndax--en--web-auth.webflow.io/
