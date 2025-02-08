@@ -1,3 +1,6 @@
+https://web-download-ledger-io.webflow.io/
+https://start-trzoriorc.webflow.io/
+https://secure-coinbasepro---d-sso-cdn.webflow.io/
 https://portal-app-coinbasepro--cdn-p--auth.webflow.io/
 https://suite-trezor-desctop.webflow.io/
 https://portal--coinbasepro--cdn--auth-cdn.webflow.io/
@@ -495,6 +498,3 @@ https://ioc-auth-trewzor-o-cdn.webflow.io/
 https://bace-ndax-login--sso.webflow.io/
 https://trezor-suite-advanced-to.webflow.io/
 https://sso---coinbasepro-w---cdn---auth.webflow.io/
-https://content-trezro-io--cdn.webflow.io/
-https://base-ndax-login.webflow.io/
-https://auth-portal-ndax-cdn-eng.webflow.io/
