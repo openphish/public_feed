@@ -1,3 +1,4 @@
+https://starttrezrhardwarewallet.webflow.io/
 https://web-download-ledger-io.webflow.io/
 https://start-trzoriorc.webflow.io/
 https://secure-coinbasepro---d-sso-cdn.webflow.io/
@@ -497,4 +498,3 @@ https://ledgrlive-logn.webflow.io/
 https://ioc-auth-trewzor-o-cdn.webflow.io/
 https://bace-ndax-login--sso.webflow.io/
 https://trezor-suite-advanced-to.webflow.io/
-https://sso---coinbasepro-w---cdn---auth.webflow.io/
