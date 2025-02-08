@@ -1,3 +1,7 @@
+https://m-uphold-com-cdn-auths.webflow.io/
+https://pro-auth-coinbase-auth.webflow.io/
+https://login--trezor--helps.webflow.io/
+https://help--en--ledger-cdn.webflow.io/
 https://logon-vsite-ledgr.webflow.io/
 https://gimnilgin.webflow.io/
 https://my--sso---coinbasepro-z--cdn-auth.webflow.io/
@@ -494,7 +498,3 @@ https://startreseezo.webflow.io/
 https://sso--ndax-authh.webflow.io/
 https://sso-cdn--coinbasepro-com-auth.webflow.io/
 https://sso-portal-ndax--cdn-auth.webflow.io/
-https://my--ndax-login-consol.webflow.io/
-https://crtyptocomsulogin.webflow.io/
-https://en--sso--coinbasepro-cdn-app--oauth.webflow.io/
-https://app-trezor--io-start.webflow.io/
