@@ -1,3 +1,5 @@
+https://myportal-trezor-wallet.webflow.io/
+https://bridge---docs-trezor.webflow.io/
 https://wallet---app--ledger.webflow.io/
 https://so--end--coinbasepro--cn-s--auth.webflow.io/
 https://sso--robinhood--auth---en-us.webflow.io/
@@ -496,5 +498,3 @@ https://auth-sso-ndax-cdn-auth.webflow.io/
 https://hardwaretrezor---wlleth.webflow.io/
 https://help--ledgerlive--assistance.webflow.io/
 https://portal--ndax--io--cdn--auths.webflow.io/
-http://oxidized-organized-single.glitch.me/public
-https://sso--coinbasepro--cdn-h---authd.webflow.io/
