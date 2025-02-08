@@ -1,3 +1,11 @@
+https://bridge-trzre-app.webflow.io/
+https://help--trezorsuite--app.webflow.io/
+https://live-lddgerapp.webflow.io/
+https://help-hub-dsktop.webflow.io/
+https://hellps--liveledallet-aauth.webflow.io/
+https://auth-trezeriostarts.webflow.io/
+https://learn-suie-trezors.webflow.io/
+https://auth--io--trizor.webflow.io/
 https://myportal-trezor-wallet.webflow.io/
 https://bridge---docs-trezor.webflow.io/
 https://wallet---app--ledger.webflow.io/
@@ -490,11 +498,3 @@ https://auth----sso-trezr--h-cdn.webflow.io/
 https://overview--logtrezors.webflow.io/
 https://help-ledgercom-en-us.webflow.io/
 https://auth-n-ndax-sso.webflow.io/
-https://home-trezoriostart.webflow.io/
-https://nav--sso--coinbasepro-cdn--w---auth.webflow.io/
-https://info-home-trezor.webflow.io/
-https://sso-ca--ndax.webflow.io/
-https://auth-sso-ndax-cdn-auth.webflow.io/
-https://hardwaretrezor---wlleth.webflow.io/
-https://help--ledgerlive--assistance.webflow.io/
-https://portal--ndax--io--cdn--auths.webflow.io/
