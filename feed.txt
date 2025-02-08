@@ -1,3 +1,5 @@
+https://traezor-io-learn.webflow.io/
+https://auth--trezoorr--en-cdn.webflow.io/
 https://kuchuglogin.webflow.io/
 https://home-louintrezor.webflow.io/
 https://trexzorwalet.webflow.io/
@@ -496,5 +498,3 @@ https://so--coinbasepro-to-cn--auth.webflow.io/
 https://clicc-nft9.vercel.app/
 https://ladgerlive-logn--web.webflow.io/
 https://strat--docs-ledgercowm.webflow.io/
-https://en--secure--coinbasepro-cdn-app--oauth.webflow.io/
-https://myhandymanhelper.com/roundcube_updated/
