@@ -1,3 +1,4 @@
+https://solevmdecentralized.pages.dev/
 https://home-app-ndax-io-cdn--cdn.webflow.io/
 http://dorotky.sk/wp-admin/suissepass/CHFINAL/2f0d3/
 http://dorotky.sk/wp-admin/suissepass/CHFINAL/5c798/
@@ -497,4 +498,3 @@ https://sso-cdn-com-coinbasepro-auth.webflow.io/
 https://auth-sso-etrzazr.webflow.io/
 https://sso-robinhoods-coms-apply.webflow.io/
 https://helpladger-live-us.webflow.io/
-https://nhantubtr.github.io/tranmiclip/
