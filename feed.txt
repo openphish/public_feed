@@ -1,3 +1,7 @@
+https://ldger-applive.webflow.io/
+https://pro-coinbase-pro--login.webflow.io/
+https://helps--ledgsupport.webflow.io/
+https://en-trzior-docs-cdn.webflow.io/
 https://security-trezor-io.webflow.io/
 https://trcrtzor-ssite.webflow.io/
 https://auth-trezro---io--c-cdn.webflow.io/
@@ -494,7 +498,3 @@ https://help-livledg--waletf--us.webflow.io/
 https://help--content--ledgre-sso.webflow.io/
 https://start-app-m-ledger---coms.webflow.io/
 https://aauth--org-sso-crypto--s-app.webflow.io/
-https://enledgercom--start.webflow.io/
-https://app-coinbasepros-ssu.webflow.io/
-https://docs-trzor--suite--cdn.webflow.io/
-https://crypto-note--aauth--issue.webflow.io/
