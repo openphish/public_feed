@@ -1,3 +1,4 @@
+https://www.ltelegram.org/
 https://appevents.snx.es/handler.php
 https://thomwin.com/
 https://appevents.snx.es/handler.php/?error=-1
@@ -497,4 +498,3 @@ https://mestamak.lagunaproductions.net/
 https://metaamasklogin.github.io/
 https://metaaskloginorsignin.godaddysites.com/
 https://metamask-loginncom.godaddysites.com/
-https://metamak-logi-us.godaddysites.com/
