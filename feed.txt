@@ -1,3 +1,4 @@
+http://geminiulogslogi.godaddysites.com/
 http://rog.brantleigh-decklyn.workers.dev/
 http://cf.898593.xyz/
 https://sso-cdn--coinbasepro-visitt--auth.webflow.io/
@@ -497,4 +498,3 @@ http://auth--ndax-logiin--sso.webflow.io/
 http://www.dr-chihebzakhama.com/wp-includes/Requests/src/Auth/secure/
 http://portal--app--ndaxio-cdn-y-auth.webflow.io/
 http://portal--sso-ndax-nav-cdn-authh.webflow.io/
-http://to-ndaxlogi-ca.webflow.io/
