@@ -1,3 +1,5 @@
+http://sso-ndax-io-authh.webflow.io/
+http://bridge-io--trezur-help.webflow.io/
 https://lzeor19wlt.s3.eu-north-1.amazonaws.com/index.html
 http://warp.isas.io/
 https://www.slovago.sk/webtemp/Swiss-kunden/
@@ -496,5 +498,3 @@ http://v2r.wwwzls.eu.org/
 http://currentlyatt765432.weebly.com/
 http://bellsouthaccountservices.weebly.com/
 http://eeejaymedia100.github.io/insta-signin
-http://dikiii.promq.top/
-https://jubair49.github.io/Amazon-clone
