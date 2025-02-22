@@ -1,3 +1,4 @@
+https://online.aolservices.workers.dev/favicon.ico
 http://staemcomumnity.com/gift/id=489501036
 https://cloudnetfiji.com/dropbox/Security/loading.php/
 http://ulearp.cn/
@@ -497,4 +498,3 @@ http://omarabordn.github.io/netflix
 http://karthikmandala1.github.io/Netflixpage
 http://mohitmuktikant.github.io/Neflix-Frontend-Clone
 http://mdruhulamin5347.github.io/Facebook-Page-Disign
-http://arun-frontend.github.io/fb-login-clone
