@@ -1,3 +1,4 @@
+http://sso-trezor-com-cdn-auth.webflow.io/
 http://tushar1471.github.io/amazon_clone
 http://thakurharsh06.github.io/Amazon-Clone
 http://app---suite--trezre.webflow.io/
@@ -497,4 +498,3 @@ http://tanvi-yeole.github.io/amazonWebClone
 http://extensionwebstore-kyc.ddnss.eu/FMfcgzGtxSvtnDMJWSGhxLTztxLkJkMW/FMfcgzGtxSxDgR/836f5
 http://metamksk-wallet.webflow.io/
 http://claimreportsocialdominion.vercel.app/wx2SY&Zf5tgaKQszasE&mwzeFe3LSb1=887LF&CVmHk
-http://p-sso-coinbase-auth-l-auth.webflow.io/
