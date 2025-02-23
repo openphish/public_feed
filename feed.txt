@@ -1,3 +1,5 @@
+http://builtcloudfarerage.pages.dev/
+http://aniket0020.github.io/test
 http://abdullahsaleem786.github.io/Amazon-Landing-page
 http://taiyabalam0786.github.io/Amazon-UI-Clone
 http://itzdasankit10.github.io/Netflix-Clone
@@ -496,5 +498,3 @@ https://dapps-mainnet-3i6.pages.dev/assets/
 http://help-ledger--desktop.webflow.io/
 http://portal--ndax---io---cdn---auth.webflow.io/
 http://shubhangi2606.github.io/
-http://helps-coinbase-index.webflow.io/
-http://home-coinbasepro-en.github.io/en-us
