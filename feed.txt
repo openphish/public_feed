@@ -1,3 +1,5 @@
+http://ipfs.io/ipfs/bafkreibqzcsls2zcxw6nkznlsbqtqeb3t2bgfoo73jg4czsvysq7nme6i4
+https://www.lasoka.thsite.top/
 https://login-update-neflixcs.astrometriknet.com/
 https://bafybeicjart6xnqnhn2wxxtaygvl327ad3dtufggocex2pczejucjiwhna.ipfs.dweb.link/
 http://op48oa.webwave.dev/
@@ -496,5 +498,3 @@ http://sso-auth-ndax-io-auth.webflow.io/
 http://my-app--ndax-cdn-portal.webflow.io/
 http://gamepooler.cc/go/13b433/63d4.php/13b433/63d4
 http://secure-so--ndax-auth.webflow.io/
-http://portal--ndax--io--cdn--auths.webflow.io/
-http://page-sso-ndax-ca-sso.webflow.io/
