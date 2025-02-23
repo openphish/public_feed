@@ -1,3 +1,6 @@
+http://sso--ndax--ca---sso.webflow.io/
+http://ene-coinbarpros-cdn.webflow.io/
+http://lilavatipandit.github.io/myproject_demoWD1
 http://warningnoticeviralwave.vercel.app/gyQydv$g=JswGhjsY=LbngjTsm_Ln@v
 http://shishira-vasikarla.github.io/Amazon-clone
 http://geminiesxchang.webflow.io/
@@ -495,6 +498,3 @@ http://bin-22.com/
 http://balajii1212.github.io/amzon
 http://mataamsk-wallat.gitbook.io/
 http://rahulgit002.github.io/amazoneclone.github.io
-http://rajatroy27.github.io/Amazon_Frontend_Clone
-http://shubham4dey.github.io/Amazon-Clone
-http://wlts--us--trezrei.webflow.io/
