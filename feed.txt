@@ -1,3 +1,5 @@
+http://raheemsayyad.github.io/amazon.1
+http://snehagupta9.github.io/amazon-clone
 http://ledgrcom--staret.webflow.io/
 http://secure---sso--robinhood--com---auth.webflow.io/
 http://trzor---wallet--cdn.webflow.io/
@@ -496,5 +498,3 @@ http://fathominc.com/staging/paypal_update.html
 http://ourhelps.pages.dev/
 http://sarveshbodakhe.github.io/Amazon-Clone
 http://rajnamdev19.github.io/AmazonClone
-http://www.shorten.tv/@case54367/
-http://tanveer-code26.github.io/Amazon_Clone
