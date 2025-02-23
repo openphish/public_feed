@@ -1,3 +1,6 @@
+http://shagunsaxena.github.io/Amazon_clone
+http://trrzuorloggin-app.webflow.io/
+http://secure-ledgger-sso.webflow.io/
 http://secure---ai--ledger.webflow.io/
 http://home-a--suitestart-trezr.webflow.io/
 http://trezor-suuitelearrn.webflow.io/
@@ -495,6 +498,3 @@ http://trezorarwareaullet.webflow.io/
 http://tanvisharma975.github.io/MyAmazonClone
 http://xhxaidi.github.io/Amazon-clone-using-CSS-and-HTML
 http://mehaksethia.github.io/Netflix-clone
-http://yash-sharma2004.github.io/amazon-clone
-http://siddhant3333.github.io/amazonclone1
-http://suheylcedid.github.io/Amazon-clone
