@@ -1,3 +1,4 @@
+http://faq-trezor-doc.webflow.io/
 http://mettmskewallets.webflow.io/
 http://tarezorhardwarewalet.webflow.io/
 http://start-trzorior.webflow.io/
@@ -497,4 +498,3 @@ http://home-coinbasepro-en.github.io/en-us
 http://secure-leedger-auths.webflow.io/
 http://ndaxlogin--accont.webflow.io/
 http://startio-ledger-sso.webflow.io/
-http://leedgdrlive-alet.webflow.io/
