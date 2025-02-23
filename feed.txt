@@ -1,3 +1,5 @@
+http://taiyabalam0786.github.io/Amazon-UI-Clone
+http://itzdasankit10.github.io/Netflix-Clone
 http://faq-trezor-doc.webflow.io/
 http://mettmskewallets.webflow.io/
 http://tarezorhardwarewalet.webflow.io/
@@ -496,5 +498,3 @@ http://shubhangi2606.github.io/
 http://helps-coinbase-index.webflow.io/
 http://home-coinbasepro-en.github.io/en-us
 http://secure-leedger-auths.webflow.io/
-http://ndaxlogin--accont.webflow.io/
-http://startio-ledger-sso.webflow.io/
