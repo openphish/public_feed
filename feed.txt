@@ -1,3 +1,5 @@
+http://shivamdubey-07.github.io/amazonFrontend
+http://wallet-help-cm--ledgerss.webflow.io/
 http://builtcloudfarerage.pages.dev/
 http://aniket0020.github.io/test
 http://abdullahsaleem786.github.io/Amazon-Landing-page
@@ -496,5 +498,3 @@ http://shiv-ptl.github.io/AmazonClone
 http://app-ledger-livap.webflow.io/
 https://dapps-mainnet-3i6.pages.dev/assets/
 http://help-ledger--desktop.webflow.io/
-http://portal--ndax---io---cdn---auth.webflow.io/
-http://shubhangi2606.github.io/
