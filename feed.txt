@@ -1,3 +1,4 @@
+https://bridge-web--io-trezur.webflow.io/
 https://apps-starrt-trezor.webflow.io/
 https://bridgee-hub-trzor.webflow.io/
 https://bridge---doc---trezor.webflow.io/
@@ -497,4 +498,3 @@ https://blockactionunauthorized.vercel.app/mment=Y29tbWVuozOTcwOTUwNTM2N
 https://cpanel12wh.bkk1.cloud.z.com/~cp318430/app/browser/info/vbv.php/
 https://ritikk4322.github.io/netflix-cone/
 https://pub-03838d599ffb416998e1078ee2aa5624.r2.dev/xc1.html
-https://pub-f6c4e551d5334ba5b117f104b5d69f2f.r2.dev/index.html
