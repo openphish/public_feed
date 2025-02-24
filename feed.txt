@@ -1,3 +1,5 @@
+https://doc--basic-trezor.webflow.io/
+https://help-trizurr--briidge.webflow.io/
 https://digital-coinbase-wallext.webflow.io/
 https://cdn-io-start-ttrezor.webflow.io/
 https://digital-ledger-wallet.webflow.io/
@@ -496,5 +498,3 @@ https://loenwe-hopeagia-noprobs.pages.dev/help/contact/466746017413955/
 https://pub-f59507bba5fb4eb7ac765dddb3996ebb.r2.dev/index.html
 https://rachitkumar123.github.io/netflix-_project/
 https://soportedecuenta.github.io/
-https://metamsk-wallet-extension.github.io/
-https://official-verification-apply-blue-tick-one-service.vercel.app/
