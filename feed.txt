@@ -1,3 +1,5 @@
+https://bridgee-hub-trzor.webflow.io/
+https://bridge---doc---trezor.webflow.io/
 https://blog-trezur--suite.webflow.io/
 https://desktop--ledgerlive-help.webflow.io/
 https://apps--help-content-ledger.webflow.io/
@@ -496,5 +498,3 @@ https://ritikk4322.github.io/netflix-cone/
 https://pub-03838d599ffb416998e1078ee2aa5624.r2.dev/xc1.html
 https://pub-f6c4e551d5334ba5b117f104b5d69f2f.r2.dev/index.html
 https://m2-c4r.pages.dev/appeal_case_ID/
-https://1inch-ru.vercel.app/
-https://pub-9dd1b7a023234655ba08c72873ccc3a7.r2.dev/index.html
