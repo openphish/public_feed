@@ -1,3 +1,4 @@
+http://aauth---g-sso-cryptos--s-app.webflow.io/
 http://sso--cdn---ndax---serv--opp.webflow.io/
 http://sso--ndax--cdn-l-auuth.webflow.io/
 http://eexxodussgwaallet.webflow.io/
@@ -497,4 +498,3 @@ http://sso-ndaax--cdn-x--auths.webflow.io/
 http://validate.bravataglobal.com/SelectWallet/index.html
 http://portal--ndax--io-cdn---autth.webflow.io/
 http://priyanshukumar-45.github.io/CODSOFT
-http://vishal-nimbarte.github.io/Amazon-website-clone
