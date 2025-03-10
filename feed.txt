@@ -1,3 +1,5 @@
+http://auth--app-cryptocom-sso--w--cdn.webflow.io/
+https://startt--trezzor-io.webflow.io/
 https://app-trezxsuite.webflow.io/
 https://logie-us--trezre.webflow.io/
 https://welcome-coinpro---cdn.webflow.io/
@@ -496,5 +498,3 @@ http://learn-start--trezure.webflow.io/
 http://ene-coinbarpros-cdn.webflow.io/
 https://pub-a85e6da1f35847bfaf9856dbad796e8c.r2.dev/index.html
 https://opebttt.weebly.com/
-https://pub-8d33d66c31084ab3b602af0c111b9be3.r2.dev/index.html
-https://nhantubtr.github.io/tranmiclip/
