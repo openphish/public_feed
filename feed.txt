@@ -1,3 +1,5 @@
+https://app-home-en--exodus--app.webflow.io/
+http://review-page-issue-help.github.io/appeal
 https://phento---m-walllet.webflow.io/
 https://bridge-docs--trezr.webflow.io/
 https://overview-trezurstart.webflow.io/
@@ -496,5 +498,3 @@ http://trezor--logun---doc.webflow.io/
 http://trezor-bridge-issues.webflow.io/
 http://en-trezzor-logiin.webflow.io/
 http://desktop-lrdgrlive.webflow.io/
-http://docs-bridge-trzsr.webflow.io/
-http://en--sso---coinbasepro---auth--e--cdn.webflow.io/
