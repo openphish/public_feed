@@ -1,3 +1,6 @@
+http://home-page-eng--coinbasepro--cdn----auth.webflow.io/
+http://help-ledger----live--cdn.webflow.io/
+http://normal-start--ledgercom--cdn.webflow.io/
 http://hardware-help-terzor.webflow.io/
 http://learn-trezorbridge.webflow.io/
 http://help-en-ledgerr.webflow.io/
@@ -495,6 +498,3 @@ https://help-center-case-id-1000198741709.chrisstanton.co.uk/?fbclid=IwY2xjawIui
 http://sso-ndax-io-authe.webflow.io/
 https://help-center-case-id-1000198741708.chrisstanton.co.uk/?fbclid=IwY2xjawIuiE1leHRuA2FlbQIxMAABHbmDZsQ3KhhNUz5F7WfZ2lY08046WRk_4SZoI1W5Ymzj4C0ulM2prL4EKg_aem_7SKyb_jsRd_zoSKJnZ4TZA/
 https://netlify-clone-magle.netlify.app/
-http://ldger-live-download.github.io/
-https://sso-cdn---ndax----service-auths.webflow.io/
-http://started-sso--ndaxx-auth.webflow.io/
