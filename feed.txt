@@ -1,3 +1,4 @@
+http://hardware-help-terzor.webflow.io/
 http://learn-trezorbridge.webflow.io/
 http://help-en-ledgerr.webflow.io/
 http://geminii--wallet.webflow.io/
@@ -497,4 +498,3 @@ https://netlify-clone-magle.netlify.app/
 http://ldger-live-download.github.io/
 https://sso-cdn---ndax----service-auths.webflow.io/
 http://started-sso--ndaxx-auth.webflow.io/
-http://web--support--crypto-sso.webflow.io/
