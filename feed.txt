@@ -1,3 +1,4 @@
+https://serviciodecoorso.ink/
 https://sso-robinhood--com--auth-dc-auth.webflow.io/
 https://official-coinbase-x-pro-login--auth.webflow.io/
 https://app-home-en--exodus--app.webflow.io/
@@ -497,4 +498,3 @@ http://sso--coinbasepro--cdn---auth.webflow.io/
 http://support-en-l-edger.webflow.io/
 http://proo-sso-coinbasepro--auth.webflow.io/
 http://trezor--logun---doc.webflow.io/
-http://trezor-bridge-issues.webflow.io/
