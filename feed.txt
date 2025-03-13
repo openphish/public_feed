@@ -1,3 +1,5 @@
+https://apps-site-kucoin.webflow.io/
+https://meethaoumklogin.webflow.io/
 https://secure--sso--coinbasepro-cdn-c--auth.webflow.io/
 https://trezorwalletmn.webflow.io/
 https://erarthwalletlogin.webflow.io/
@@ -496,5 +498,3 @@ https://metamaskeklogin.webflow.io/
 http://dascogeco.github.io/cogeciisss
 http://trezzorwalllet.webflow.io/
 http://metamaskklogiinl.webflow.io/
-http://nbtlql.vercel.app/
-http://cdn--ledgrelive--safe.webflow.io/
