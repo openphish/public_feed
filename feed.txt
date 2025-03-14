@@ -1,3 +1,4 @@
+http://netflix.yallahsoft.com/
 http://safe--ndax-login--ss.webflow.io/
 http://bnp-sinistre-billeterie-2t8o2xs0e-neat-eu.vercel.app/
 http://bafybeif7qztadpjm63bedabojp7nddt2blgh2lxrfqhz7chwohd3vpjy5i.ipfs.dweb.link/
@@ -497,4 +498,3 @@ https://pub-f646fcf921a042849665079efef1b168.r2.dev/index.html
 https://pub-12c3834cbc02478eae1d5a41806cea0b.r2.dev/index.html
 https://harshitam17.github.io/Netflix/
 https://eugeniewun72-englichs302.pages.dev/help/contact/596228859447525
-https://theasadcoder.github.io/amazon/
