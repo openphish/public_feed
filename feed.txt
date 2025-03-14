@@ -1,3 +1,4 @@
+http://smsx01.blogspot.mk/
 http://shaw-106205.weeblysite.com/
 http://iono-webnail.vercel.app/
 http://skiezvrnew.duckdns.org/en/
@@ -497,4 +498,3 @@ https://yashsinghal001.github.io/AmazonWebsite-Non-Responsive/
 https://piyushpal017.github.io/Netflix-Clone/
 https://pub-4f7b15ddbcae44fc99d27a5e7f6d5eff.r2.dev/index.html
 https://melpg.github.io/NetflixHomepage/
-https://pub-f646fcf921a042849665079efef1b168.r2.dev/index.html
