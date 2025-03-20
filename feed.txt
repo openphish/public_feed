@@ -1,3 +1,5 @@
+http://secure---blockfi--sso-cdn-h.webflow.io/
+http://portal-ndax----io-cdn-auth-login.webflow.io/
 http://pinbo3656c.com/
 http://aktivasixxz-ld-webs.speedzsite.mom/
 http://metamsk-wallet-extension.github.io/
@@ -496,5 +498,3 @@ https://pub-2beff241cfa64d7f83b822e8c227ad4a.r2.dev/index.html
 https://pub-ce2d0679453d4fa48743eacb8ce0cf4e.r2.dev/log.html
 https://pub-ceb6fc917f1a45e3a1cfe0221e017792.r2.dev/index.html
 https://pub-eb03e594738b420c8a34cb7366d9f29b.r2.dev/lkjhgz.html
-https://pub-f4f8f45011084a81af23aa2c62217152.r2.dev/index.html
-https://pub-8e91483ba9cb4b339962021fda32697f.r2.dev/index.html
