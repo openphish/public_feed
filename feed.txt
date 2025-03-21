@@ -1,3 +1,6 @@
+http://wallet-connect-app.productsway.com/
+https://test.jbmpackaglng.com/
+http://trexiosastrat.webflow.io/
 http://controlpostservice.weebly.com/
 https://wsiuyeddu.weebly.com/
 https://pub-40bbdcf234994540a52e82436580891d.r2.dev/index.html?session=udCsRyhoU80q&target=portal&client=pll7bthR&auth=standard&device=ICfZz1D3iT&origin=direct
@@ -495,6 +498,3 @@ https://dodittakado.business-minagne.com/
 https://pub-e78c5da8e4234830960030af86a7a53c.r2.dev/index.html
 https://pub-780cf773478848a69b30738c3423d481.r2.dev/index.html
 https://pub-4abcdb5ef217475eb598c7fd9e6d205b.r2.dev/index.html
-https://pub-95d0e4b3045947e99740d3667bca90c2.r2.dev/index.html
-https://pub-303fc0e5e27a4be483685c3e55248df3.r2.dev/index.html
-https://athigengamuthu.github.io/Insta/
