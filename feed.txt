@@ -1,3 +1,5 @@
+http://auth--portal-io-ndaax-cdn.webflow.io/
+http://loginzblockfi.webflow.io/
 https://firo-blockbook.twnodes.com/
 http://metamaskfx.cc/
 https://webmail-103190.weeblysite.com/
@@ -496,5 +498,3 @@ http://m.blockchainmail.net/
 http://free-5512703.webadorsite.com/
 http://ib.jieyuexingye.com/taxes.asp
 http://pqnsatfas.net/
-http://www.blockchainmail.net/
-http://sudeepykalapur.github.io/
