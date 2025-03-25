@@ -1,3 +1,4 @@
+http://meti.teruinpro.com/
 http://io-suite-help-trezor.webflow.io/
 https://smoothieware.github.io/Webif-pack/documentation/web/html/servicelogin2ede.html?tab=gc
 http://23ggggggggggg.blogspot.com/?m=1
@@ -497,4 +498,3 @@ http://payalrattan.github.io/amazon
 http://vaibh04.github.io/Amazon_Clone
 http://sujalchilai.github.io/amazon-clone
 http://sumit-singh0044.github.io/Amazon_clone
-http://sudarshan-bhosale.github.io/Amazon-clone
