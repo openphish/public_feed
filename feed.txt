@@ -1,3 +1,4 @@
+http://attsupportteam1.weebly.com/
 http://sso-ndax-io--auth.webflow.io/
 http://ca-ndax-io-com-auth.webflow.io/
 http://enforcepageadsavvy.vercel.app/get_help/
@@ -497,4 +498,3 @@ http://ezpass.com-ysmz.xin/pay/
 http://ezpass.com-yiit.xin/pay/
 http://ezpass.com-wexe.xin/pay/
 http://ezpass.com-ycfr.xin/pay/
-http://ezpass.com-wefo.xin/pay/
