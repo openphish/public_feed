@@ -1,3 +1,4 @@
+https://auth0-app.com/index/mlogin.html?sid=441097832608926030215686063952&cid=null&eid=null&stage=null
 https://my-att-signin.firebaseapp.com/dynamic/iamLRR/
 https://my-att-signin.firebaseapp.com/dynamic/iamLRR/pin.html
 https://prattttttttttttnetttttttttt.mystrikingly.com/
@@ -497,4 +498,3 @@ http://at.indeep.qpon/
 http://pagina.pro/facebookcom-checkpoint-956-CzechRepublic
 https://dapps.syncchain.biz/
 http://crangasi29.ro/
-https://enforcementalertsocialflair.vercel.app/get_help
