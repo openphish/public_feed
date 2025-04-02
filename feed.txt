@@ -1,3 +1,5 @@
+https://home--auth-coinbase--x-cdn.webflow.io/
+https://metamaskcrypt0signin.webflow.io/
 http://ms-titan-dashboard.com/
 https://fastidious-caramel-7c5f1d.netlify.app/
 https://agrorural.pages.dev/
@@ -496,5 +498,3 @@ http://auuth--trez--login.webflow.io/
 http://helpgerservice.weebly.com/
 http://authu-ledgre-apps.webflow.io/
 http://app-ledgeer-webstor.webflow.io/
-http://netzero-prior-notification.webflow.io/
-http://pro-locoinbase-grin.webflow.io/
