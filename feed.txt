@@ -1,3 +1,4 @@
+http://sreejith7.github.io/Amazon_Clone
 https://yf2mup1v2xce0hyi0whg3a7b8gj0.venturagrowth.net/
 https://lad-web-start.vercel.app/
 http://geminietlogin.webflow.io/
@@ -497,4 +498,3 @@ http://inspection-person-network.vercel.app/
 http://react-firebase-instagram-web-clone-21u9.vercel.app/
 http://wild-cell.meronbarkenhagen.workers.dev/
 http://facesbook.shop/
-http://purvi-arora.github.io/amazon.github.io
