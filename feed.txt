@@ -1,3 +1,6 @@
+http://auth--cryptoissue-g--sso.webflow.io/
+http://instagram-clone-next-js-ten.vercel.app/
+http://varadkolhe.github.io/AmazonFrontEndClone
 http://meetamasclugiu.webflow.io/
 http://sso--ndax--cdn--n-auuth.webflow.io/
 http://kucoinrnlogin.webflow.io/
@@ -495,6 +498,3 @@ http://abdrsd.github.io/well
 https://vebo.vercel.app/support.html
 http://akshayarajgopalj.github.io/Netflix-Clone
 http://bhavya1352.github.io/Amazon-clone
-http://vishnuvardhanu.github.io/amazon_clone
-https://alix-1fmu.vercel.app/teamsupport.html
-http://juno-107111.weeblysite.com/
