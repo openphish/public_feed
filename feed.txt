@@ -1,3 +1,4 @@
+https://coinbasesetension.webflow.io/
 https://trezoriawaleto.webflow.io/
 https://wallet-tre-zor.webflow.io/
 https://meethamoskwallet.webflow.io/
@@ -497,4 +498,3 @@ https://kukcuoinlogii.webflow.io/
 https://ledger-wallet-portal.webflow.io/
 https://starttrezrsuiteapp.webflow.io/
 https://loginusquckoin.webflow.io/
-https://ledfer-com--startt.webflow.io/
