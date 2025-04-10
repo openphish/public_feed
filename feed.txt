@@ -1,3 +1,4 @@
+https://wallet-tre-zor.webflow.io/
 https://meethamoskwallet.webflow.io/
 https://etomaxlogin.webflow.io/
 https://trezorrio-start-upp.webflow.io/
@@ -497,4 +498,3 @@ https://starttrezrsuiteapp.webflow.io/
 https://loginusquckoin.webflow.io/
 https://ledfer-com--startt.webflow.io/
 https://intro-ledger-m--cdn.webflow.io/
-https://kulciniloginx.webflow.io/
