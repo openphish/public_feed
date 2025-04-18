@@ -1,3 +1,4 @@
+http://m.mes2018.com/
 http://notice0.godaddysites.com/
 http://gemni-xlodge.godaddysites.com/
 http://start-etrezior.webflow.io/
@@ -497,4 +498,3 @@ http://portal--nav--ndax-io--cdn.webflow.io/
 http://admin._domainkey.shimura-china.com/
 http://mail._domainkey.f75d3f.shimura-china.com/
 http://adp.shimura-china.com/
-http://admin.shimura-china.com/
