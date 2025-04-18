@@ -1,3 +1,8 @@
+http://portal--cdn-ndax--cdn-auths.webflow.io/
+http://auth--ndax-io--cdn--auth.webflow.io/
+http://kulcoinilogi.webflow.io/
+http://view---trezorwallet.webflow.io/
+http://xfinityemailsupport.pory.app/
 http://telecom-60k.pages.dev/
 https://yyzby.com/
 https://20609link.1465273653.workers.dev/
@@ -493,8 +498,3 @@ https://cockenhx3dp.vercel.app/metasp.html
 https://mehhhhull.github.io/Amazon_Clone/
 https://bcsneq.net/martin/martins.html
 https://datagivers.com/m90c3b18c454854439b86e0d83365d8a2410.html
-https://bitvavoo0.com/
-https://marketprosecurityflag.vercel.app/decision&copyright
-http://walletauthenticators.vercel.app/
-https://humbletrailco.vercel.app/managermentquan/Landingpage/landingpage.html
-https://iyushkhandelwal207.github.io/Amazon-Clone/
