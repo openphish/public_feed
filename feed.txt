@@ -1,3 +1,4 @@
+https://auth--app-kucoin--s--cdn.webflow.io/
 https://metamaskk-extension.webflow.io/
 https://secure--blockfie-apps-cd-sso.webflow.io/
 https://docs--suite-trezor-io-app--cd.webflow.io/
@@ -497,4 +498,3 @@ http://sso---ndax---cdn-aauth.webflow.io/
 http://steam.suzhouren.cn/
 http://020saibo.com/
 http://secure---blockfi-app--cdn-cdn.webflow.io/
-http://027saibo.com/
