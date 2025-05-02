@@ -1,3 +1,7 @@
+https://sso-portal-ndax--cdn-autth.webflow.io/
+https://secure-blocfki-sso-cdn.webflow.io/
+http://portal-ndax--io-sso--auth.webflow.io/
+http://portal-ndax-io-cdn--xm--auth.webflow.io/
 https://auths--blockfi-en-cdn-sso.webflow.io/
 https://ndax-login--web.webflow.io/
 https://portal---auth-io-ndax-cdn.webflow.io/
@@ -294,7 +298,3 @@ http://instagrammalo.blogspot.co.za/
 http://g24ewdf333.blogspot.com/
 http://g24ewdf333.blogspot.tw/
 http://www1.l3ol11q.eu.org/
-http://excel-doc.vercel.app/
-https://web----sso----moonpay-login--cdn.webflow.io/
-http://fayethe.github.io/Facebook-login
-https://www.buyukeczane.org/Shipping/EMS%20POST/post/china/logistic/intraship/emss.php?l=_JeHFUq_VJOXK0QWHtoGYDw1774256418&fid.13InboxLight.aspxn.1774256418&fid.125289964252813InboxLight99642_Product-email&email=
