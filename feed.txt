@@ -1,3 +1,7 @@
+https://login-app-mypaymentvault.com/
+https://login-app-mypaymentvault.com/membercard.html
+https://login-app-mypaymentvault.com/registrationpin.html
+https://login-app-mypaymentvault.com/RegistrationContact.html
 https://pnamttom.com/
 https://dana.piimaallchaiin.com/dnlyn/
 https://api.yu3.io/ms0qx6/?LayananDana
@@ -294,7 +298,3 @@ https://help-i-trezor.webflow.io/
 https://help-ledger-helps-live.webflow.io/
 https://docs-trezzr-wllet.webflow.io/
 http://ecardm.blogspot.no/
-https://help-trezuio-start.webflow.io/
-https://fixtrezrlogin.webflow.io/
-https://au-auth-liveledger.webflow.io/
-https://ledgerapp-io.webflow.io/
