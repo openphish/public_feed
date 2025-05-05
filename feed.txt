@@ -1,3 +1,4 @@
+http://syncdap.pages.dev/
 http://dhl-express-idhfwimbqvycvbxdqextfdcn.pages.dev/
 http://auth-blockfi-console.webflow.io/
 http://dhl-express-ujgnfbploinpdysoczrldoix.pages.dev/
@@ -297,4 +298,3 @@ http://1inch.io-en-us.info/
 http://roshan1223.github.io/Amazon-Clone
 http://bitfarmsmining-network.top/
 https://sign_adfs-whee75.zlatanibile.workers.dev/
-http://leedgrrliveapp.webflow.io/
