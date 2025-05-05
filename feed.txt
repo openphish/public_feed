@@ -1,3 +1,4 @@
+http://rbx-rejectanomalies.fwh.is/
 https://uplhodi-logiin.github.io/
 https://volkmarziegles.com/chase/chase/Main/loginfailed.php
 https://volkmarziegles.com/chase/chase/Main/otp.php
@@ -297,4 +298,3 @@ https://iif.qyn.mybluehost.me/controlee/config/blog/multi/home.php
 https://opensea-mint-nft021.vercel.app/
 https://opensea-mint-nft04.vercel.app/
 https://pub-cabe4a0a3c1e4232bc526e4ce3d840a1.r2.dev/index.html
-https://pub-74a288b1309c4f90a1d9c61fce9e3479.r2.dev/index.html
