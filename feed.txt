@@ -1,3 +1,5 @@
+https://azure-sso-eng-ca-netcoins-com-cdn.webflow.io/
+https://secure----auth-moonpay-login-cdn.webflow.io/
 https://sso-en--ll-ledgr--app-h-cdn.webflow.io/
 https://begin-trzor-help.webflow.io/
 https://ca-netcoins---auth--nav--cdn.webflow.io/
@@ -296,5 +298,3 @@ http://txdmv.gov-ts.vip/pay/
 http://www.pagina.pro/facebook-meta-security-help1/
 http://dms-admin-site-eastus2.azurewebsites.net/login/done/
 http://dmv.ca-govmf.vip/portal/
-http://cdmv.gov-uys.win/pay/
-http://ezpass.com-ezyuib.vip/us/
