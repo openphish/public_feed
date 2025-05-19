@@ -1,3 +1,4 @@
+http://yedek.bte.org.tr/
 https://wallet-lodgrlive.webflow.io/
 https://learn--i-trustcapital-com-auth.webflow.io/
 https://sso-ndax-io-cdn----com----autth.webflow.io/
@@ -297,4 +298,3 @@ http://lxo.e1b.mytemp.website/login/sp/home/Qp-bill.php?token=TW96aWxsYS81LjAgKE
 https://steamcomun1ty.com/gift-card/579832
 https://lmoriw-iekascma-oqmmcq-213-cmakwe-fgacsax.pages.dev/uadmin/bower_components/bootstrap/docs/4.0/examples/internals/Forms/SendMessagePage.form.php
 https://f551008.cc/
-https://netflix-clone-inky-two.vercel.app/
