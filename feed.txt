@@ -1,3 +1,7 @@
+https://web-trezor-app-store.webflow.io/
+https://supprt-content-ledger.webflow.io/
+https://truzurwallet.webflow.io/
+https://suite-io-cdn-trzor.webflow.io/
 https://suites-terzor-io.webflow.io/
 https://welta--live-ledgre.webflow.io/
 https://strt-trexuur-io.webflow.io/
@@ -294,7 +298,3 @@ https://sso----w-trustcapital--com--autths.webflow.io/
 https://secure-blockfie-app-auth-cdn.webflow.io/
 https://homepage-blockfiee.webflow.io/
 https://sso---en-netcoins-com-cdn---autth.webflow.io/
-https://start-z-blockfi-cdn.webflow.io/
-https://log-in-ndex.webflow.io/
-http://zcc-18f.pages.dev/
-http://flde-lity.com-jl.bond/security/forgotLogin.html
