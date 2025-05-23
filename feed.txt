@@ -1,3 +1,4 @@
+https://trezor-r-suiteeapp.webflow.io/
 https://m--app-l-edger-oauth.webflow.io/
 https://io-docs-trezor-cdn-auth.webflow.io/
 https://tezoriostar.webflow.io/
@@ -297,4 +298,3 @@ http://shushi-swap--cdn.webflow.io/
 https://my--sso-itrustcapital-com-auth-h.webflow.io/
 https://sso--itrustcapital--verify--auth.webflow.io/
 https://server876.weebly.com/
-https://portal---auuth---ndax--cdn.webflow.io/
