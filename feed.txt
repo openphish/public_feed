@@ -1,3 +1,5 @@
+http://internetusaaer.wixstudio.com/my-site
+https://accountmanager-aapealls-fbads.vercel.app/
 https://sso--trezor-io--cdn--s--auth.webflow.io/
 https://metas-4vbu.vercel.app/contactsp/users/advertisings.html
 https://metamailventure-id20243-zxwn.vercel.app/policyresolution.html
@@ -296,5 +298,3 @@ http://pub-4ef5a5e6cc4a4498baa4aadbea4df574.r2.dev/index.html
 http://pub-9cccbb3968ca437b81a03660ad4511df.r2.dev/index.html
 http://steamcomun1ty.com/id=5947221648
 http://pub-4cfb1f4e409743118a78c83ff9d8587e.r2.dev/index.html
-http://pub-b7dd795cb6c8457ea8b8dd76f0dca005.r2.dev/index.html
-http://pub-9f65e9a08da64a87ae0cc31910c99428.r2.dev/index.html
