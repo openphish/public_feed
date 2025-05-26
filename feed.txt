@@ -1,3 +1,4 @@
+https://project10a-34b5f.firebaseapp.com/
 https://magalur.shcheli.com/
 https://swift-multinodeapp.web.app/
 http://xkidxa.weebly.com/
@@ -297,4 +298,3 @@ https://secure---login-moonpay--sso.webflow.io/
 http://ledger-desktop--liveapp.webflow.io/
 http://ledgerstartbc.webflow.io/
 https://my-secure-itrustcapital-us-cdn.webflow.io/
-https://sso----uphold-com-cdn---home.webflow.io/
