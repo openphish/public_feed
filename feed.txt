@@ -1,3 +1,4 @@
+https://opensea-luckybox10.vercel.app/
 https://bafybeig5ip7obxeemkkujlwtwn6xe2azcj2xh453eysnkju36op444cnme.ipfs.dweb.link/
 https://opensea-luckybox6.vercel.app/
 http://auth--changelly-cdn-d.webflow.io/
@@ -297,4 +298,3 @@ https://promerica.fi-cr.cfd/crs/
 https://promerica.crfism.cyou/crs/
 http://www.promerica.fi.cr/500/
 https://promerica.fi.cr/500
-http://georgia.jkl-tgwc.win/us/
