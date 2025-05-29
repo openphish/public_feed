@@ -1,3 +1,4 @@
+http://yikecang.com/wp-includes/kr/koreaservicedhl.html
 http://hsbc-gateway-demo-broker.azurewebsites.net/
 http://host-ledgeristart----sso.webflow.io/
 http://currently9876.weebly.com/
@@ -297,4 +298,3 @@ https://iodized-kindly-icecream.glitch.me/public/hunfxrsfdg.html
 http://events.gs1-germany.de/gs1-academy/events.ics
 https://ipfs.io/ipfs/bafybeidc45anu6buziecsz6rrxk7p2elepb3ktdnup44j6cqbhel7xd4vi/ski.html
 http://newlogss.github.io/
-https://skkushwah03.github.io/Amazon-clone
