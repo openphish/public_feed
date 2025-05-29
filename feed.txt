@@ -1,3 +1,4 @@
+http://hsbc-gateway-demo-broker.azurewebsites.net/
 http://host-ledgeristart----sso.webflow.io/
 http://currently9876.weebly.com/
 http://trezoriostart-sso-m-authz-us.webflow.io/
@@ -297,4 +298,3 @@ http://events.gs1-germany.de/gs1-academy/events.ics
 https://ipfs.io/ipfs/bafybeidc45anu6buziecsz6rrxk7p2elepb3ktdnup44j6cqbhel7xd4vi/ski.html
 http://newlogss.github.io/
 https://skkushwah03.github.io/Amazon-clone
-https://trusted-verification-service-t1-xkj7.vercel.app/violate/page.html
